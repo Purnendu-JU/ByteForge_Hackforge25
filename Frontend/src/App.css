@@ -1,0 +1,15 @@
+body {
+  background-color: #e6f4f1; /* light minty blue (health/wellness vibe) */
+  background-image: url('https://www.toptal.com/designers/subtlepatterns/uploads/paisley.png'); /* or your own pattern */
+  background-size: 300px;
+  background-repeat: repeat;
+  background-attachment: fixed;
+  color: #1a1a1a;
+}
+body::before {
+  content: '';
+  position: fixed;
+  top: 0; left: 0; width: 100%; height: 100%;
+  background: linear-gradient(to bottom right, rgba(230, 244, 241, 0.8), rgba(255, 255, 255, 0.6));
+  z-index: -1;
+}

@@ -1,0 +1,44 @@
+{
+    "first_aid_guide": [
+      {
+        "condition": "Heart Attack",
+        "first_aid": "A heart attack occurs when blood flow to the heart is blocked. If someone is experiencing symptoms of a heart attack, such as chest pain, shortness of breath, or sweating, call emergency services immediately. Have the person sit down, stay calm, and loosen any tight clothing. Administer aspirin (Acetylsalicylic Acid) if they are not allergic and if advised by emergency services. If the person becomes unconscious and stops breathing, begin Cardiopulmonary Resuscitation (CPR) immediately."
+      },
+      {
+        "condition": "Choking",
+        "first_aid": "Choking occurs when an object blocks the airway, preventing breathing. Encourage the person to cough if they can still breathe or talk. If they cannot cough, speak, or breathe, perform the Heimlich maneuver to dislodge the object. For infants, deliver five back blows followed by five chest thrusts. Call emergency services if the object is not dislodged quickly or if the person becomes unconscious."
+      },
+      {
+        "condition": "Burns (Thermal)",
+        "first_aid": "Burns can be caused by heat, chemicals, or electricity. For thermal burns, cool the affected area under cool running water for 10-20 minutes. Cover the burn with a sterile, non-fluffy dressing or clean cloth. Avoid breaking blisters as it can cause infection. Seek medical assistance for severe burns, burns on sensitive areas, or if the person shows signs of shock."
+      },
+      {
+        "condition": "Seizures",
+        "first_aid": "Seizures are sudden, uncontrolled electrical disturbances in the brain. During a seizure, protect the person from injury by clearing nearby objects and cushioning their head, but do not restrain them. Once the seizure ends, place the person on their side to maintain an open airway. Call emergency services if the seizure lasts more than 5 minutes, if the person has never had a seizure before, or if they are injured during the episode."
+      },
+      {
+        "condition": "Fractures",
+        "first_aid": "Fractures refer to broken bones that can result from accidents or falls. Immobilize the injured area and avoid moving it unnecessarily. If possible, apply a splint or support using a firm object. Applying ice packs can help reduce swelling and pain. Seek immediate medical attention for proper diagnosis and treatment."
+      },
+      {
+        "condition": "Stroke",
+        "first_aid": "A stroke occurs when blood supply to part of the brain is interrupted. Use the FAST method to identify symptoms: Face drooping, Arm weakness, Speech difficulty, Time to call emergency services. Keep the person calm and comfortable until help arrives, and do not give them anything to eat or drink."
+      },
+      {
+        "condition": "Bleeding(Severe)",
+        "first_aid": "Severe bleeding can be life-threatening if not treated promptly. Apply firm, continuous pressure over the wound with a clean cloth or bandage. If possible, elevate the injured area above heart level to slow the bleeding. Maintain pressure until help arrives. Seek immediate medical attention if the bleeding is severe or does not stop."
+      },
+      {
+        "condition": "Poisoning",
+        "first_aid": "Poisoning can occur from ingesting, inhaling, or touching harmful substances. Call Poison Control or emergency services immediately. Do not induce vomiting unless specifically instructed to do so by medical professionals. If possible, identify the poison and provide details to the responding personnel for appropriate treatment."
+      },
+      {
+        "condition": "Drowning",
+        "first_aid": "Drowning happens when the airway is obstructed by water or another liquid. If a person is pulled from the water and is unresponsive, call emergency services immediately. Begin Cardiopulmonary Resuscitation (CPR) if the person is not breathing. If breathing resumes, place them in the recovery position to keep their airway clear and monitor until help arrives."
+      },
+      {
+        "condition": "Heatstroke",
+        "first_aid": "Heatstroke is a severe condition caused by prolonged exposure to high temperatures. Move the person to a cooler place immediately. Remove excess clothing and cool them down using damp cloths or a cool bath. Offer water only if the person is conscious and able to drink. Seek urgent medical attention as heatstroke can be life-threatening."
+      }
+    ]
+  }

@@ -1,0 +1,64 @@
+.new-chat-button {
+    display: block;
+    background-color: #4CAF50;
+    color: white;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-right: 14px;
+    padding-left: 2px;
+    margin-top: 5rem;
+    margin-left: 4.7rem;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 1.2rem;
+    width: 65%;
+    text-align: center;
+}
+
+.new-chat-button:hover {
+    background-color: #45a049;
+}
+.history {
+    position: fixed;
+    right: 0;
+    height: 100vh;
+    width: 25%;
+    top: 0;
+    background-color: #000000; /* Apply black background from CSS */
+}
+
+.chats{
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    margin-top: 1rem;
+    padding: 15px 25px 15px 25px;
+    margin-left: 1.5rem;
+    font-size: 1.2rem;
+    background-color: rgb(238, 148, 187);
+    outline: none;
+    border: none;
+    border-radius: 8px;
+}
+
+.queries{
+    width: 25%;
+    margin-left: 32rem;
+    border: 1px solid black;
+    border-radius: 8px;
+    text-align: right;
+}
+/* .textarea{
+    border: none;
+    outline: none;
+    width: 67%;
+    height: 3rem;
+    border-radius: 9px;
+    margin-top: 32rem;
+    display: flex;
+    flex-direction: column;
+    padding-left: 25px;
+    padding-bottom: 2px;
+    margin-left: 1rem;
+} */
